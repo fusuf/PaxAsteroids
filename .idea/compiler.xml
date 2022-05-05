@@ -6,15 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="OSGiAsteroids" />
-        <module name="OSGIPlayer" />
-        <module name="OSGiCore" />
         <module name="OSGiEnemy" />
         <module name="OSGiLaser" />
         <module name="OSGiCommonEnemy" />
         <module name="OSGiAsteroidSplitter" />
+        <module name="OSGiAsteroids" />
+        <module name="OSGIPlayer" />
+        <module name="OSGiCore" />
         <module name="OSGICommonPlayer" />
+        <module name="OSGiPlayer" />
         <module name="OSGiCommonBullet" />
+        <module name="OSGiCommonPlayer" />
         <module name="OSGiCommonAsteroids" />
         <module name="OSGiLibGDX" />
       </profile>
@@ -22,7 +24,6 @@
     <bytecodeTargetLevel>
       <module name="OSGiCommon" target="1.8" />
       <module name="OSGiEnemy (1)" target="1.8" />
-      <module name="OSGiPlayer" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

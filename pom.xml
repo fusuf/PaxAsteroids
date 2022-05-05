@@ -57,9 +57,9 @@
       <module>OSGiCommonEnemy</module>
       <module>OSGiAsteroidSplitter</module>
       <module>OSGiAsteroids</module>
-      <module>OSGiLaser</module>
       <module>OSGiEnemy</module>
       <module>OSGIPlayer</module>
+      <module>OSGiLaser</module>
       <module>OSGiLibGDX</module>
       <module>OSGICommonPlayer</module>
   </modules>
